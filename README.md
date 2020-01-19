@@ -9,6 +9,12 @@ in this app you can check for developers, searching for Techs and location.
 - Socket io - client
 - Expo
 
+## Screenshots
+> Main page  
+![Main page](https://i.imgur.com/guxpcrI.png)
+
+> User Github page  
+![User page](https://i.imgur.com/gXdQs4f.png)
 ## Step by step
 
 - Clone the repo
