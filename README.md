@@ -11,10 +11,10 @@ in this app you can check for developers, searching for Techs and location.
 
 ## Screenshots
 > Main page  
-![Main page](https://i.imgur.com/guxpcrI.png)
+![Imgur](https://i.imgur.com/Nmwy34N.png?1)  
 
 > User Github page  
-![User page](https://i.imgur.com/gXdQs4f.png)
+![Imgur](https://i.imgur.com/cT9bQWr.png?1)  
 ## Step by step
 
 - Clone the repo
